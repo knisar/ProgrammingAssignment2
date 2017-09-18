@@ -1,4 +1,4 @@
-## Caching the mean of a Vector
+## Caching the inverse of a Matrix
 
 ## This function creates a special "matrix" object that can cache its inverse.
 
